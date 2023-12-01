@@ -6,7 +6,7 @@ O código para essa demo veio [deste exercício](https://app.betrybe.com/learn/c
 
 [![codecov](https://codecov.io/gh/irahel/devpack-t31-ci-github-actions-tarde/graph/badge.svg?token=D3HIFW0P1Z)](https://codecov.io/gh/irahel/devpack-t31-ci-github-actions-tarde)
 
-
+,
 ## Rodando o projeto
 
 1️⃣ Instale as dependências
