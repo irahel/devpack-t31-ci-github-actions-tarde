@@ -3,7 +3,7 @@ const ProductModel = require('../models/productModel');
 const getAllProducts = (req, res) => {
   const products = ProductModel.getAll();
 
-  res.status(200);
+  res.status(201);
   res.json(products);
 };
 
